@@ -2,6 +2,8 @@
 
 log interface for go module
 
+https://github.com/go-logr/logr
+
 - 1: 支持项目级别替换日志
 
 - 2: 支持模块级别替换日志
